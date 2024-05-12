@@ -5,3 +5,5 @@
   <li><b>Terminal access</b></li>
   <li><b>Upload the file</b></li>
 </ul>
+
+<h1>🦠</h1><p>In the server.py , you must set your IP address and port to connect</p>
