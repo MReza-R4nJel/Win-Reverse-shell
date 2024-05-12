@@ -1,4 +1,4 @@
-# Win-Reverse-shell
+
 
 <h1>Windows reverse shell botnet</h1>
 <ul>
@@ -7,3 +7,9 @@
 </ul>
 
 <p>◽ <b></b>In the server.py , you must set your IP address and port to connect</b></p>
+
+```
+[*] Developer ~ RoXset
+[*] Version ~ 0.1
+[*] Open source
+```
