@@ -6,4 +6,4 @@
   <li><b>Upload the file</b></li>
 </ul>
 
-<h1>🦠</h1><p>In the server.py , you must set your IP address and port to connect</p>
+<p>◽ <b></b>In the server.py , you must set your IP address and port to connect</b></p>
